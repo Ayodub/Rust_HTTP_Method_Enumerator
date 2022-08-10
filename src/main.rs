@@ -183,7 +183,6 @@ async fn main() {
         Method::PATCH,
         Method::DELETE,
         Method::HEAD,
-        Method::CONNECT,
         Method::TRACE
     ];
 
